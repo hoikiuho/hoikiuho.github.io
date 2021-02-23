@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Olympian Gods</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <article>
+      <h1>The Olympian Gods</h1>
+      <h2>The Twelve Olympian Gods</h2>
+      <p>Are listed below for your reference, in the order they were born. (Hades was not counted as an Olympian god.)</p>
+      <ol>
+        <li>Hestia (or Dionysus, depending on the myth)</li>
+        <li>Demeter</li>
+        <li>Hera</li>
+        <li>Poseidon</li>
+        <li>Zeus</li>
