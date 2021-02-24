@@ -21,7 +21,7 @@ body, section, img {
   border-radius: 16px;
 }
 img.olympus {
-  padding-left: auto;
-  padding-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
   
