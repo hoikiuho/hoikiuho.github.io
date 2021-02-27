@@ -20,7 +20,7 @@ body, section, img {
   border: 2px solid Gray;
   border-radius: 16px;
 }
-img.olympus {
+.olympus {
   width: 80%
   height: auto
 }
