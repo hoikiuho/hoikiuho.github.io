@@ -24,4 +24,5 @@ body, section, img {
   max-width: 1920px;
   width: 100%;
   height: auto;
+  border: 100px solid Gray;
 }
