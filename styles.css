@@ -24,6 +24,5 @@ body, section, img {
   border-radius: 16px;
 }
 .olympus {
-  max-width: 1920px;
-  width: 100%;
+  max-width: 100px;
 }
