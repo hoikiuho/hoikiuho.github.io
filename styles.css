@@ -25,6 +25,5 @@ body, section, img {
 }
 .olympus {
   max-width: 1920px;
-  width: 80%;
-  height: auto;
+  width: 100%;
 }
